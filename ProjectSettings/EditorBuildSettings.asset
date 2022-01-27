@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/StartScene.unity
+    guid: cc064c7a2aad56941a0a312be363ec03
+  - enabled: 1
+    path: Assets/Scenes/TutorialScene.unity
+    guid: 5ffdf22c3827acf47a3e58e80efff290
+  - enabled: 1
+    path: Assets/Vernys Playground/Layout Prototype.unity
+    guid: e30f63759b3570443847e14cee763abe
+  - enabled: 1
+    path: Assets/Scenes/EndScene.unity
+    guid: 0f2d0f8a8a7737845937cf458930fa3d
+  m_configObjects: {}
